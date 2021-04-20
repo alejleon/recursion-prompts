@@ -10,6 +10,7 @@ var factorial = function(n) {
 
 
   //factorials!!!
+  //factorials are cool
 };
 
 // 2. Compute the sum of an array of integers.
